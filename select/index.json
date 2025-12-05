@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Vandalize",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T03:04:18.445960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vandalize",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Vandalize_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vandalize (International Version) [Explicit]",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Vandalize_(International_Version)_[Explicit]_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vandalize",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Vandalize_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vandalize (Japanese Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Vandalize_(Japanese_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vandalize (Clean)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Vandalize_(Clean)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No way to say - Vandalize/Realize Mix",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/06_No_way_to_say_-_Vandalize_Realize_Mix_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vandalize - Metal Version",
+      "artist": "Little V.",
+      "has_synced": false,
+      "path": "select/07_Vandalize_-_Metal_Version_Little_V..txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vandalize (Sonic Frontiers)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/08_Vandalize_(Sonic_Frontiers)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sonic Frontiers & ONE OK ROCK - \"Vandalize\" Music Video",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/09_Sonic_Frontiers_&_ONE_OK_ROCK_-__Vandalize__Music_Video_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vandalize (EN, Explicit)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/10_Vandalize_(EN,_Explicit)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No way to say “Vandalize / Realize Mix”",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/11_No_way_to_say_“Vandalize___Realize_Mix”_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vandalize (Japanese Version) (Japanese Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/12_Vandalize_(Japanese_Version)_(Japanese_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vandalize Shit (feat. Onyx)",
+      "artist": "Snak the Ripper",
+      "has_synced": true,
+      "path": "select/13_Vandalize_Shit_(feat._Onyx)_Snak_the_Ripper.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Vandalize Shit",
+      "artist": "Snak the Ripper",
+      "has_synced": true,
+      "path": "select/14_Vandalize_Shit_Snak_the_Ripper.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Vandalize - Japanese Version",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/15_Vandalize_-_Japanese_Version_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No way to say \"Vandalize／Realize Mix\"",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/16_No_way_to_say__Vandalize_Realize_Mix_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Vandalize (Metal Version)",
+      "artist": "Little V.",
+      "has_synced": true,
+      "path": "select/17_Vandalize_(Metal_Version)_Little_V..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Vandalize",
+      "artist": "Vgr",
+      "has_synced": true,
+      "path": "select/18_Vandalize_Vgr.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Vandalize",
+      "artist": "Victor McKnight feat. Kizakoto & Noah McKnight",
+      "has_synced": false,
+      "path": "select/19_Vandalize_Victor_McKnight_feat._Kizakoto_&_Noah_McKnight.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vandalize",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Vandalize_ONE_OK_ROCK.txt"
+    }
+  ]
+}
